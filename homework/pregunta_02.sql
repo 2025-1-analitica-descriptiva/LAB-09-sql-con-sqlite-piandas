@@ -20,6 +20,6 @@
 -- 
 
 SELECT
-    COUNT(*) 
+    COUNT(*) AS total_registros
 FROM
-    tbl1; 
+    tbl1;
